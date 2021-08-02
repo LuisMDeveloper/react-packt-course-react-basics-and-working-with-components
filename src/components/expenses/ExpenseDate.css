@@ -1,0 +1,21 @@
+.ep-date {
+    background: #1976D2;
+    border-radius: 4px;
+    box-shadow: 0 3px 5px rgba(0, 0, 0, 0.2), 0 1px 18px rgba(0, 0, 0, 0.12), 0 6px 10px rgba(0, 0, 0, 0.14);
+
+    padding: 0.5rem;
+
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+
+    color: #FFFFFF;
+
+    width: 110px;
+    height: 110px;
+}
+
+.ep-day-date {
+    font-size: 2rem;
+}

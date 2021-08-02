@@ -1,0 +1,28 @@
+.ep-card {
+    background: #212936;
+
+    border: 1px solid #313C4E;
+    box-sizing: border-box;
+    border-radius: 4px;
+
+    padding: 0.75rem;
+
+    color: #AFBDD1;
+
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+    margin: 0.5rem;
+}
+
+.ep-row {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+
+.ep-row > * {
+    margin-left: 0.5rem;
+    margin-right: 0.5rem;
+}
